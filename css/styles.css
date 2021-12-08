@@ -101,6 +101,26 @@ p {
   text-decoration: underline;
   background-color: powderblue;
 }
+.work-body {
+  text-align: justify;
+  padding-left: 20px;
+}
+.work-h1 {
+  text-align: center;
+  font-size: 3em;
+}
+.work-h2 {
+  font-size: 2em;
+  margin: 0 0 0 2%;
+}
+.work-p {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.work-hr {
+  margin-top: 50px;
+  width: 5%;
+}
 .credits-h2 {
   font-size: 2vw;
   text-align: left;
