@@ -37,11 +37,11 @@ a:hover {
   color: #444444;
 }
 .nav-link {
-  font-size: 1em;
+  font-size: 2em;
   text-align: left;
 }
 .navbar-brand {
-  font-size: 1.5em;
+  font-size: 3em;
 }
 .navbar {
   padding: 0 1%;
