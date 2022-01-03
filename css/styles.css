@@ -46,25 +46,6 @@ a:hover {
 .navbar {
   padding: 0 1%;
 }
-.cloud1 {
-  margin: 2.5% 0 0 0;
-  margin-left: 20%;
-}
-.cloud2 {
-  display: block;
-  margin-left: 30%;
-}
-.cloud3 {
-  position: absolute;
-  bottom: 40%;
-  right: 15%
-}
-.cloud4 {
-  position: absolute;
-  bottom: 25%;
-  left: 15%
-}
-
 .skill {
   height: auto;
   line-height: 2;
