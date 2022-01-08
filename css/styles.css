@@ -108,3 +108,15 @@ a:hover {
   margin-top: 5%;
   font-size: 2.5vw;
 }
+@media (max-width: 992px) {
+  .navbar-brand {
+    font-size: 5em;
+  }
+  .nav-link {
+    font-size: 3em;
+  }
+  .navbar-toggler-icon {
+    height: 5em;
+    width: 5em;
+  }
+}

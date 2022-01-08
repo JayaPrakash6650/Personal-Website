@@ -31,3 +31,15 @@ h2 {
     object-fit: contain;
   }
 }
+@media (max-width: 992px) {
+  .navbar-brand {
+    font-size: 5em;
+  }
+  .nav-link {
+    font-size: 3em;
+  }
+  .navbar-toggler-icon {
+    height: 5em;
+    width: 5em;
+  }
+}
