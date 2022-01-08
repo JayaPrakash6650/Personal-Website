@@ -1,0 +1,33 @@
+body {
+  background-color: #F7F6F2;
+  text-align: center;
+}
+h2 {
+  margin-top: 1%;
+}
+.nav-link {
+  font-size: 1.5em;
+  text-align: left;
+}
+.navbar-brand {
+  font-size: 3em;
+}
+.navbar {
+  padding: 0 1%;
+  background-color: #F0E5CF;
+}
+.project-image {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+@media (min-width: 992px) {
+  body {
+    text-align:left;
+  }
+  .project-image {
+    height: 10rem;
+    width: 15rem;
+    object-fit: contain;
+  }
+}

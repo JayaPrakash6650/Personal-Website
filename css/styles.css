@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #686D76;
+  text-align: center;
+}
+h1 {
+  font-size: 5.625em;
+  font-weight: normal;
+  color: #171717;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  font-size: 2.5em;
+  font-weight: normal;
+  color: #171717;
+}
+hr {
+  margin: auto;
+  padding: 0.5% 0;
+  background-color: #686D76;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #171717;
+  border-top-width: 5px;
+  width: 25%;
+}
+p {
+  margin: 1%;
+  font-size: 1.25em;
+  color: #232020;
+}
+a {
+  color: #171717;
+}
+a:hover {
+  color: #444444;
+}
+.nav-link {
+  font-size: 1.5em;
+  text-align: left;
+}
+.navbar-brand {
+  font-size: 3em;
+}
+.navbar {
+  padding: 0 1%;
+}
+.skill {
+  height: auto;
+  line-height: 2;
+}
+.skill-title {
+  color: #171717;
+}
+.skill-row {
+  text-align: justify;
+}
+.odd-skill-image {
+  float: left;
+  margin-right: 30px;
+}
+.even-skill-image {
+  float: right;
+  margin-left: 30px;
+}
+.contact {
+  height: 50px;
+}
+.linkedin, .github, .gmail, .website {
+  height: 100%;
+  padding: 0 1%;
+}
+.row {
+  padding: 0;
+  margin: 0;
+}
+.work-body {
+  text-align: justify;
+}
+.work-h1 {
+  text-align: center;
+  font-size: 3em;
+}
+.work-h2 {
+  font-size: 2em;
+  margin: 0 0 0 2%;
+}
+.work-p {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.work-hr {
+  margin-top: 50px;
+  width: 5%;
+}
+.credits-h2 {
+  font-size: 2vw;
+  text-align: left;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.credit-img {
+  width: 5%;
+}
+.credits-p {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 2.5vw;
+}

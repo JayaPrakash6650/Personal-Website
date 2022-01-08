@@ -1,0 +1,28 @@
+body {
+  margin: 0 1% 1% 0;
+  background-color: #D0E8F2;
+}
+a {
+  color: brown;
+}
+.nav-link {
+  font-size: 1.5em;
+  text-align: left;
+}
+.navbar-brand {
+  font-size: 3em;
+}
+.navbar {
+  margin-right: -1%;
+  padding: 0 1%;
+  background-color: #89A3B2;
+}
+.resume-li {
+  margin: 1%;
+  font-size: 1.25em;
+  color: #232020;
+}
+.profile-pic {
+  float: left;
+  height: 10rem;
+}

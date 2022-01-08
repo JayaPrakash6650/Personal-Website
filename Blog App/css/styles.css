@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+h2 {
+  color: white;
+}
+p {
+  color: #7F7C82;
+  padding-bottom: 10%;
+}
+.title-section {
+  background-color: #FF5959;
+  padding: 0 10% 1%;
+}
+.navbar {
+  padding: 2rem 5rem 4rem 0;
+  text-align: left;
+}
+.navbar-brand {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding-right: 5%;
+  font-size: 1.5rem;
+}
+.download-btn {
+  margin: 5%;
+}
+.title-image {
+  width: 50%;
+  transform: rotate(15deg);
+}
+.second-section {
+  background-color: white;
+  padding: 5%;
+}
+.hover-img {
+  color: #FFB5B5;
+  margin-bottom: 1rem;
+}
+.hover-img:hover {
+  color: #FF5959;
+}
+.feature {
+  padding: 0 5%;
+}
