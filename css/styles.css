@@ -59,10 +59,12 @@ a:hover {
 .odd-skill-image {
   float: left;
   margin-right: 30px;
+  height:125px;
 }
 .even-skill-image {
   float: right;
   margin-left: 30px;
+  height:125px;
 }
 .contact {
   height: 50px;
